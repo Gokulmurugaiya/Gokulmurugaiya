@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Gokulnath
+- 👀 I’m interested in the field of Data analyst/ Data science
+- 🌱 I’m currently a Fresher
